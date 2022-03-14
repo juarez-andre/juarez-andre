@@ -9,8 +9,7 @@ A little about me:
 
 - 🔭 I’m currently not working;
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript;
-- 👯 I’m looking to collaborate on Instituto Brasileiro de Desenvolvimento e Sustentabilidade - IABS;
-- 🤔 I’m looking to find a new job;
+- 👯 I’m collaborating on Instituto Brasileiro de Desenvolvimento e Sustentabilidade - IABS;
 - 💬 Ask me about anything related with Python or Web Development;
 - 📫 How to reach me: juarez.andre2013@gmail.com;
 - ⚡ Fun fact: I love music and video games.
