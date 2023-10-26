@@ -7,7 +7,7 @@ Hi, I'm Juarez
 
 A little about me:
 
-- 🔭 I’m currently not working;
+- 🔭 I’m currently working at Instituto Brasileiro de Desenvolvimento e Sustentabilidade;
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript;
 - 👯 I’m collaborating on Instituto Brasileiro de Desenvolvimento e Sustentabilidade - IABS;
 - 💬 Ask me about anything related with Python or Web Development;
