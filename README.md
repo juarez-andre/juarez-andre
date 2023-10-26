@@ -2,7 +2,7 @@ Hi, I'm Juarez
 
 ✅ Graduated in Archival Science from the University of Brasília.
 
-🔄 Graduating student in Analysis and Systems Development at University Cruzeiro do Sul Virtual.
+✅ Graduated in Analysis and Systems Development at University Cruzeiro do Sul Virtual.
 
 
 A little about me:
